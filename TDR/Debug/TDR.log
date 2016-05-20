@@ -1,6 +1,0 @@
-﻿  TDR.cpp
-c:\users\masonchang\documents\visual studio 2015\projects\tdr\tdr\tdr.cpp(60): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'DWORD'
-  c:\users\masonchang\documents\visual studio 2015\projects\tdr\tdr\tdr.cpp(60): note: consider using '%lu' in the format string
-c:\users\masonchang\documents\visual studio 2015\projects\tdr\tdr\tdr.cpp(71): warning C4477: 'wprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'LPVOID'
-  TDR.vcxproj -> c:\users\masonchang\documents\visual studio 2015\Projects\TDR\Debug\TDR.exe
-  TDR.vcxproj -> c:\users\masonchang\documents\visual studio 2015\Projects\TDR\Debug\TDR.pdb (Partial PDB)
